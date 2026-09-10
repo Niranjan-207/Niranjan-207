@@ -49,15 +49,16 @@ niranjan@dev:~$ _
 
 <br/>
 
+<div align="center">
+
 <a href="https://leetcode.com/niranjan0207">
-  <img src="https://leetcode-stats.vercel.app/api?username=niranjan0207&theme=Dark" width="48%" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Stats Showcase" />
 </a>
 <a href="https://leetcode.com/niranjan0207">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Badge Showcase" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Badges" />
 </a>
 
-<!-- If the above is slow to load, fallback: -->
-<!-- <img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="100%" alt="LeetCode Stats Showcase" /> -->
+</div>
 
 </div>
 
