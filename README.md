@@ -38,6 +38,42 @@ niranjan@dev:~$ _
 
 <br/>
 
+## 🧮 Coding Profiles & Problem Solving Breakdown
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-niranjan0207-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/niranjan0207)
+[![CodeChef](https://img.shields.io/badge/CodeChef-niranjan07-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/niranjan07)
+[![USACO](https://img.shields.io/badge/USACO-Silver%20Division-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.usaco.org/)
+[![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-Rank%20167%2F57K-1E90FF?style=for-the-badge&logoColor=white)](https://www.smartinterviews.in/)
+
+<br/>
+
+<img src="https://leetcode-stats-showcase.vercel.app/api?username=Niranjan-207&theme=dark" alt="LeetCode Stats" />
+
+</div>
+
+<br/>
+
+**Topic-Wise Problem Breakdown**
+
+| Category | Problems Solved |
+|---|---|
+| 🌲 Dynamic Programming & Graph Theory | 250+ |
+| 🧱 Data Structures & Trees | 200+ |
+| 🎯 Greedy, Binary Search & Two Pointers | 200+ |
+| 🧮 Advanced Algorithms & Math | 150+ |
+| **Total** | **800+** |
+
+**Key CP Highlights**
+
+- 🥇 **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally)
+- 🍫 **CodeChef:** Peak Rating **1647**
+- 🌽 **USACO:** Silver Division
+- 🧮 **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
+
+<br/>
+
 ## 🛠️ Featured Projects
 
 <table>
