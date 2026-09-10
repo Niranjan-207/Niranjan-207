@@ -44,13 +44,20 @@ niranjan@dev:~$ _
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20|%202062%20Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/niranjan0207)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Peak%201647-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/niranjan07)
-[![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-Rank%20167%2F57%2C528-1E90FF?style=for-the-badge&logoColor=white)](https://www.smartinterviews.in/)
+[![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-Rank%20167%2F57%2C528-1E90FF?style=for-the-badge&logoColor=white)](https://smartinterviews.in/certificate/0af7a54c)
 [![USACO](https://img.shields.io/badge/USACO-Silver%20Division-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.usaco.org/)
 
 <br/>
 
-<img src="https://leetcode-stats-api.herokuapp.com/niranjan0207" width="48%" alt="LeetCode Stats" />
-<img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Stats Showcase" />
+<a href="https://leetcode.com/niranjan0207">
+  <img src="https://leetcode-stats.vercel.app/api?username=niranjan0207&theme=Dark" width="48%" alt="LeetCode Stats" />
+</a>
+<a href="https://leetcode.com/niranjan0207">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Badge Showcase" />
+</a>
+
+<!-- If the above is slow to load, fallback: -->
+<!-- <img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="100%" alt="LeetCode Stats Showcase" /> -->
 
 </div>
 
