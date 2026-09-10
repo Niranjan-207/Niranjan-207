@@ -38,36 +38,27 @@ niranjan@dev:~$ _
 
 <br/>
 
-## 🧮 Coding Profiles & Problem Solving Breakdown
+## 🧮 Coding Profiles & Live Problem Solving Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-niranjan0207-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/niranjan0207)
-[![CodeChef](https://img.shields.io/badge/CodeChef-niranjan07-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/niranjan07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20|%202062%20Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/niranjan0207)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Peak%201647-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/niranjan07)
+[![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-Rank%20167%2F57%2C528-1E90FF?style=for-the-badge&logoColor=white)](https://www.smartinterviews.in/)
 [![USACO](https://img.shields.io/badge/USACO-Silver%20Division-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.usaco.org/)
-[![Smart Interviews](https://img.shields.io/badge/Smart%20Interviews-Rank%20167%2F57K-1E90FF?style=for-the-badge&logoColor=white)](https://www.smartinterviews.in/)
 
 <br/>
 
-<img src="https://leetcode-stats-showcase.vercel.app/api?username=Niranjan-207&theme=dark" alt="LeetCode Stats" />
+<img src="https://leetcode-stats-api.herokuapp.com/niranjan0207" width="48%" alt="LeetCode Stats" />
+<img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Stats Showcase" />
 
 </div>
 
 <br/>
 
-**Topic-Wise Problem Breakdown**
-
-| Category | Problems Solved |
-|---|---|
-| 🌲 Dynamic Programming & Graph Theory | 250+ |
-| 🧱 Data Structures & Trees | 200+ |
-| 🎯 Greedy, Binary Search & Two Pointers | 200+ |
-| 🧮 Advanced Algorithms & Math | 150+ |
-| **Total** | **800+** |
-
 **Key CP Highlights**
 
-- 🥇 **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally)
+- 🥇 **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally) — live solved count above
 - 🍫 **CodeChef:** Peak Rating **1647**
 - 🌽 **USACO:** Silver Division
 - 🧮 **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
@@ -212,10 +203,7 @@ Verification-first RAG for Indian legal statutes — audits retrieved context fo
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
