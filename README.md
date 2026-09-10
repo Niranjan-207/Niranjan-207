@@ -52,7 +52,7 @@ niranjan@dev:~$ _
 <div align="center">
 
 <a href="https://leetcode.com/niranjan0207">
-  <img src="https://leetcode-stats-card.vercel.app/niranjan0207?theme=dark" width="48%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/niranjan0207?theme=dark&font=Fira%20Code&ext=contest" width="48%" alt="LeetCode Profile Card" />
 </a>
 <a href="https://leetcode.com/niranjan0207">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Badges" />
