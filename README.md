@@ -52,13 +52,11 @@ niranjan@dev:~$ _
 <div align="center">
 
 <a href="https://leetcode.com/niranjan0207">
-  <img src="https://leetcode-stats-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Stats Showcase" />
+  <img src="https://leetcode-stats-card.vercel.app/niranjan0207?theme=dark" width="48%" alt="LeetCode Stats" />
 </a>
 <a href="https://leetcode.com/niranjan0207">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=niranjan0207&theme=tokyonight" width="48%" alt="LeetCode Badges" />
 </a>
-
-</div>
 
 </div>
 
