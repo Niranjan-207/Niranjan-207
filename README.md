@@ -38,7 +38,7 @@ niranjan@dev:~$ _
 
 <br/>
 
-## 🧮 Coding Profiles & Live Problem Solving Stats
+## Coding Profiles & Live Problem Solving Stats
 
 <div align="center">
 
@@ -64,10 +64,10 @@ niranjan@dev:~$ _
 
 **Key CP Highlights**
 
-- 🥇 **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally) — live solved count above
-- 🍫 **CodeChef:** Peak Rating **1647**
-- 🌽 **USACO:** Silver Division
-- 🧮 **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
+-  **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally) — live solved count above
+-  **CodeChef:** Peak Rating **1647**
+-  **USACO:** Silver Division
+-  **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
 
 <br/>
 
@@ -167,14 +167,14 @@ Verification-first RAG for Indian legal statutes — audits retrieved context fo
 
 | Achievement | Detail |
 |---|---|
-| 🥇 **LeetCode Knight** | Peak Rating **2062** — Top ~2% globally |
-| 🍫 **CodeChef** | Peak Rating **1647** |
-| 🌽 **USACO** | Silver Division |
-| 🧮 **Smart Interviews** | Global Rank **167 / 57,528** |
-| 📦 **Amazon ML Summer School 2026** | Selected — Top **2.3%** of 130,000+ applicants |
-| 🌍 **HACKaSTONE 2026 Global Grand Finalist** | Team project *"EcoLearn: A Socio-Cognitive AI Agent"* — international grand final in Agentic AI for Education @ Vrije Universiteit Amsterdam |
-| 🇮🇳 **Smart India Hackathon (SIH)** | Top 5 / 250+ teams |
-| 🎤 **Promethean 2025** | Technical Coordinator — organized a 150+ participant CP contest |
+|  **LeetCode Knight** | Peak Rating **2062** — Top ~2% globally |
+|  **CodeChef** | Peak Rating **1647** |
+|  **USACO** | Silver Division |
+|  **Smart Interviews** | Global Rank **167 / 57,528** |
+|  **Amazon ML Summer School 2026** | Selected — Top **2.3%** of 130,000+ applicants |
+|  **HACKaSTONE 2026 Global Grand Finalist** | Team project *"EcoLearn: A Socio-Cognitive AI Agent"* — international grand final in Agentic AI for Education @ Vrije Universiteit Amsterdam |
+|  **Smart India Hackathon (SIH)** | Top 5 / 250+ teams |
+|  **Promethean 2025** | Technical Coordinator — organized a 150+ participant CP contest |
 
 </details>
 
@@ -224,22 +224,6 @@ Verification-first RAG for Indian legal statutes — audits retrieved context fo
 
 <br/>
 
-## 📊 Dynamic Dashboard
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Niranjan-207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-207&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-207&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Niranjan-207&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 <br/>
 
