@@ -5,9 +5,9 @@
 <br/>
 
 [![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight%20|%202062%20Peak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/niranjan0207)
-[![Amazon ML Summer School](https://img.shields.io/badge/Amazon%20ML%20Summer%20School-Top%202.3%25%20%7C%20%2726-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/niranjan-reddy)
-[![HACKaSTONE Finalist](https://img.shields.io/badge/HACKaSTONE%202026-Global%20Finalist-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/niranjan-reddy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/niranjan-reddy)
+[![Amazon ML Summer School](https://img.shields.io/badge/Amazon%20ML%20Summer%20School-Top%202.3%25%20%7C%20%2726-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1a2e)]
+[![HACKaSTONE Finalist](https://img.shields.io/badge/HACKaSTONE%202026-Global%20Finalist-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/niranjan-reddy-88b363338/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:kvniranjanreddy01@gmail.com)
 
 </div>
@@ -62,12 +62,16 @@ niranjan@dev:~$ _
 
 <br/>
 
+<div align="left">
+
 **Key CP Highlights**
 
--  **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally) — live solved count above
--  **CodeChef:** Peak Rating **1647**
--  **USACO:** Silver Division
--  **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
+- **LeetCode:** Knight Badge · Peak Rating **2062** (Top ~2% globally) — live solved count above
+- **CodeChef:** Peak Rating **1647**
+- **USACO:** Silver Division
+- **Smart Interviews:** Global Rank **167 / 57,528** · Diamond Certificate in DSA
+
+</div>
 
 <br/>
 
@@ -185,7 +189,7 @@ Verification-first RAG for Indian legal statutes — audits retrieved context fo
 | Credential | Detail |
 |---|---|
 | 🎓 **B.Tech, Information Technology** | B V Raju Institute of Technology, 2023–2027 — CGPA **9.24 / 10.0** |
-| 📘 **SWAYAM-NPTEL** | Domain Certification in Programming — **93%**, Top **1%** Nationally |
+| 📘 **SWAYAM-NPTEL** | Domain Certification in Programming  |
 | 💎 **Smart Interviews** | Diamond Certificate in DSA |
 | 🔬 **Focus Areas** | LoRA/QLoRA fine-tuning · RAG pipelines · NLI-based contradiction detection |
 
@@ -231,7 +235,7 @@ Verification-first RAG for Indian legal statutes — audits retrieved context fo
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-reddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-reddy-88b363338/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvniranjanreddy01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niranjan-207)
 
